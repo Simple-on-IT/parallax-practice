@@ -28,6 +28,6 @@
 * `npm run dev` - сборка для разработки
 
 ## Дополнительные материалы:
-Документация: https://swiperjs.com/react
-Demo: https://codesandbox.io/p/devbox/swiper-react-parallax-t5lp9g?file=%2Fsrc%2FApp.jsx%3A42%2C34-42%2C61
-Видео - 
+Документация: https://swiperjs.com/react  
+Demo: https://codesandbox.io/p/devbox/swiper-react-parallax-t5lp9g?file=%2Fsrc%2FApp.jsx%3A42%2C34-42%2C61  
+Видео - https://youtube.com/shorts/kLplLWwEsdE?feature=share
