@@ -1,0 +1,12 @@
+.slide {
+  position: relative;
+  overflow: hidden;
+  will-change: transform;
+}
+
+.image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  object-fit: contain;
+}
